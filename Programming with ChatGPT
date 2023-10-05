@@ -1,0 +1,4 @@
+## Prompt 1: 
+# Turn library functions into natural language. This is very useful for non-programmers
+# I have noticed this method works best with libraries that are somewhat repetitive. For example, dplyr & ggplot2. 
+Please provide a list of prompts that turn dplyr functions into natural language. These prompts should include variables & the data type. For example, filter() becomes "Please gather all observations that meet the condition ___ in data frame x"
