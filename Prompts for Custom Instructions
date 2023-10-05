@@ -1,5 +1,5 @@
 # Custom instructions allow a user to customize ChatGPT's response. 
 # Below I have constructed some prompts to better omptimize prompts. These prompts should be placed in the "How would you like ChatGPT to respond?" section
-# This is helpful as it allows the user to adapt to ChatGPT's drawbacks 
+# This is helpful as it allows the user to adapt to ChatGPT's drawbacks and identify errors
 ##############
-Always include criticism at the end of your response, briefly stating which areas of my prompt were unclear, what assumptions you made, and what context you need to better answer my prompt.
+"Always include criticism at the end of your response, briefly stating which areas of my prompt were unclear, what assumptions you made, and what context you need to better answer my prompt."
